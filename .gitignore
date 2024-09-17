@@ -1,5 +1,5 @@
 # Rust compiled files
-/target/
+**/target/
 
 # If you are using Cargo (Rust's package manager)
 **/*.rs.bk
